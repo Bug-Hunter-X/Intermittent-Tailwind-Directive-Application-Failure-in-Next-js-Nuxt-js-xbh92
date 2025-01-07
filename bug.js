@@ -1,0 +1,1 @@
+This bug occurs when using Tailwind CSS with a framework like Next.js or Nuxt.js. The issue is that sometimes the Tailwind directives are not applied correctly to the elements in the application. This can lead to unexpected styling issues and inconsistencies across different components.
